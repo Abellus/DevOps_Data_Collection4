@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 #Rep de travail
-#WORKDIR nous donne le repeetoire de travail
+#WORKDIR nous donne le repertoire de travail
 WORKDIR /app
 
 #copier le code source
